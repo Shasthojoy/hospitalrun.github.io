@@ -1,6 +1,6 @@
 ---
-title: Hospitalrun.Github.Io
-timezone: UTC
+title: Shasthojoy.Cloud-Services
+timezone: Asia/Dhaka
 collections:
   posts:
     title: Posts
@@ -8,9 +8,9 @@ collections:
   uploads:
     title: Uploads
     output: true
-name: HospitalRun
-description: Open source software for developing world hospitals.
-url: http://hospitalrun.io
+name: Shasthojoy
+description: Cloud based healthcare management services for developing world hospitals.
+url: http://shasthojoy.com
 permalink: "/blog/:year/:month/:title"
 exclude:
 - script
